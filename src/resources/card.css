@@ -1,0 +1,12 @@
+.carddetails{
+    padding-top: 100px;
+    padding-left: 200px;
+}
+.carddetails .flip-card { 
+    display: table; 
+  }
+  
+.carddetails .flip-card { 
+     display: table-cell; 
+     padding: 0px; 
+  }

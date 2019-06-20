@@ -1,0 +1,25 @@
+.form-style-2{
+	width: 1000px;
+	padding: 20px 12px 10px 20px;
+	font: 13px Arial, Helvetica, sans-serif;
+}
+
+.form-style-2.form-style-9{
+	max-width: 650px;
+	background: #FAFAFA;
+	padding: 30px;
+	margin-left:130px;
+	margin-bottom: 130px;
+	margin-top:20px;
+	margin-right:130px;
+	box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+	border-radius: 10px;
+	border: 6px solid #305A72;
+}
+.footertext{
+	margin-left:130px;
+	margin-bottom: 20px;
+	margin-top:150px;
+	margin-right:130px;
+	font: 13px Arial, Helvetica, sans-serif;
+}

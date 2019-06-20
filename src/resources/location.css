@@ -1,0 +1,43 @@
+.location_wrapper{
+    padding-left: 180px;
+    padding-right: 180px;
+}
+
+.imgconstr{ 
+    padding-bottom:20px;
+}
+
+.ourprojects{
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 300px;
+    margin-top:150px;
+    font-family: "Times New Roman", Times, serif;
+}
+.ourwork{
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 300px;
+   margin-top:150px;
+   font-family: "Times New Roman", Times, serif;
+}
+.aboutus{
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom:300px;
+    margin-top:150px;
+    font-family: "Times New Roman", Times, serif;
+}
+.container {
+
+    width: 100%;
+
+    padding-right: 15px;
+
+    padding-left: 15px;
+
+    margin-right: auto;
+
+    margin-left: auto;
+
+}

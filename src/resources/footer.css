@@ -1,0 +1,223 @@
+.single-footer-widget input{
+
+    line-height:38px;
+    
+    border:none;
+    
+    background:#353535;
+    
+    font-weight:300;
+    
+    border-radius:2px;
+    
+    color:#fff;
+    
+    padding-left:20px;
+    
+    width:100%;
+    
+    }
+    
+    .single-footer-widget .form-group .main_btn{
+    
+    border-radius:0;
+    
+    padding: 0 20px;
+    
+    line-height:38px;
+    
+    margin-left:7px;
+    
+    display:inline-block;
+    
+    background:#e22104;
+    
+    color:#fff;
+    
+    font-size:13px;
+    
+    font-weight:400;
+    
+    outline:none !important;
+    
+    box-shadow:none !important;
+    
+    text-align:center;
+    
+    border:1px solid #e22104;
+    
+    cursor:pointer;
+    
+    font-family:"Heebo", sans-serif;
+    
+    text-transform:uppercase;
+    
+    transition:all 300ms linear 0s;
+    
+    }
+    
+    body {
+    
+        line-height: 24px;
+    
+        font-size: 14px;
+    
+        font-family: "Roboto", sans-serif;
+    
+        font-weight: normal;
+    
+        color: #888888;
+    
+    }
+    
+    .single-footer-widget .footer-nav {
+    
+        list-style: none;
+    
+        padding: 0;
+    
+    }
+    
+    .footer-area .footer-nav li {
+    
+        margin-bottom: 15px;
+    
+        transition: all 300ms linear 0s;
+    
+    }
+    
+    .footer-area .footer-nav li i {
+    
+        font-size: 9px;
+    
+        margin-right: 8px;
+    
+    }
+    
+    li {
+    
+        display: list-item;
+    
+        text-align: -webkit-match-parent;
+    
+    }
+    
+    .footer-area .footer-nav li a {
+    
+        font-size: 14px;
+    
+        color: #888888;
+    
+        text-transform: capitalize;
+    
+    }
+    
+    a {
+    
+        text-decoration: none;
+    
+        transition: all 0.3s ease-in-out;
+    
+    }
+    
+     
+    
+     
+    
+    .ti-angle-right{
+    
+                    font-family: 'themify';                   
+    
+                    font-style: normal;
+    
+                    font-weight: normal;
+    
+                    font-variant: normal;
+    
+                    text-transform: none;
+    
+                    line-height: 1;
+    
+     
+    
+                    /* Better Font Rendering =========== */
+    
+                    -webkit-font-smoothing: antialiased;
+    
+                    -moz-osx-font-smoothing: grayscale;
+    
+    }
+    
+    .single-footer-widget .business-hour li {
+    
+        list-style: none;
+    
+        font-size: 14px;
+    
+        margin-bottom: 23px;
+    
+    }
+    
+    .single-footer-widget .business-hour {
+    
+        padding: 0;
+    
+    }
+    
+    .single-footer-widget .business-hour ul {
+    
+            list-style: none;
+    
+    }
+    
+    .footer-area {
+    
+    background-color:#16191a;
+    
+    padding-top:55px;
+
+    
+    }
+    
+    .footer-bottom {
+    
+                    padding: 27px 0px;
+    
+                    background: #111314;
+    
+                    display: flex;
+    
+                    align-items: center;
+    
+                    
+    
+                    text-align: center;
+    
+                    }
+    
+    .footer-link{
+    
+                                    color: #e22104;
+    
+                                    text-transform: capitalize;
+    
+                    }
+    
+    .footer-area  h6 {
+    
+                                    color: #fff;
+    
+                                    padding-bottom: 26px;
+    
+                                    font-size: 20px;
+    
+                                    font-weight: 400;
+    
+                                    border-bottom: 1px solid #333;
+    
+                                    margin-bottom: 23px;
+    
+                    }
+    
+     
+    
